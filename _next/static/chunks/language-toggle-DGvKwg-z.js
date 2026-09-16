@@ -1,0 +1,1 @@
+import{r as e}from"./framework-D_rUT4EX.js";import{LanguageToggle as t}from"./language-context-BzFfTBYU.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as default};

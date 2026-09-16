@@ -1,0 +1,141 @@
+{
+  "_framework-D_rUT4EX.js": {
+    "file": "_next/static/chunks/framework-D_rUT4EX.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_navigation-errors-By4dF-Cc.js": {
+    "file": "_next/static/chunks/navigation-errors-By4dF-Cc.js",
+    "name": "navigation-errors",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "app/blog/language-toggle.tsx": {
+    "file": "_next/static/chunks/language-toggle-DGvKwg-z.js",
+    "name": "language-toggle",
+    "src": "app/blog/language-toggle.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "components/language-context.tsx",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/inferencia/page.tsx": {
+    "file": "_next/static/chunks/page-C9f7rlBi.js",
+    "name": "page",
+    "src": "app/inferencia/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "components/language-context.tsx",
+      "node_modules/vinext/dist/shims/image.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/page.tsx": {
+    "file": "_next/static/chunks/page-B_U_Z1U5.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "components/language-context.tsx",
+      "node_modules/vinext/dist/shims/image.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "app/simulaciones/page.tsx": {
+    "file": "_next/static/chunks/page-BG0Wsrd1.js",
+    "name": "page",
+    "src": "app/simulaciones/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "components/language-context.tsx",
+      "node_modules/vinext/dist/shims/image.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/language-context.tsx": {
+    "file": "_next/static/chunks/language-context-BzFfTBYU.js",
+    "name": "language-context",
+    "src": "components/language-context.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/image.js": {
+    "file": "_next/static/chunks/image-CenOJhDp.js",
+    "name": "image",
+    "src": "node_modules/vinext/dist/shims/image.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "_next/static/chunks/app-route-prefetch-policy-5VnUHyyB.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-Bp3dcU1z.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js",
+      "_navigation-errors-By4dF-Cc.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "_next/static/chunks/streamed-icons-D0Q1wsQE.js",
+    "name": "streamed-icons",
+    "src": "node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-Dh7jPosY.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js",
+      "_navigation-errors-By4dF-Cc.js"
+    ],
+    "dynamicImports": [
+      "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "virtual:vinext-app-browser-entry",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "components/language-context.tsx",
+      "app/page.tsx",
+      "app/blog/language-toggle.tsx",
+      "node_modules/vinext/dist/shims/streamed-icons.js",
+      "node_modules/vinext/dist/shims/image.js",
+      "app/simulaciones/page.tsx",
+      "app/inferencia/page.tsx"
+    ]
+  }
+}
